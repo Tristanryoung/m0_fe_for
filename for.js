@@ -3,6 +3,7 @@
   
 // Challenge 1
 // Use a for statement to log to the console all even numbers between 25 and 75.
+hello 
 
 
 
